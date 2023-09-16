@@ -1,0 +1,15 @@
+---
+object: set
+id: f70dfde4-9b8e-4a3c-b773-c93725776508
+code: pmps09
+name: Magic Premiere Shop 2009
+uri: https://api.scryfall.com/sets/f70dfde4-9b8e-4a3c-b773-c93725776508
+scryfall_uri: https://scryfall.com/sets/pmps09
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apmps09&unique=prints
+released_at: '2009-01-01'
+set_type: promo
+card_count: 5
+digital: false
+nonfoil_only: false
+foil_only: false
+icon_svg_uri: https://svgs.scryfall.io/sets/pmps.svg?1694404800
